@@ -6,7 +6,8 @@ def make_chains(input_text):
 	input_text = input_text.split()
 
 	# for words in input_text:
-		
+	# find the same words and put them as keys in a dictionary
+
 	return ipsum
 
 def main(argv):
